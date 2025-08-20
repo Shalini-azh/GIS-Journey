@@ -2,9 +2,8 @@ My GIS Learning Journey
 
 🌍 10 Largest Earthquakes (2000–2020)
 
-  My GitHub repository contains GIS learning files and outputs.
-  I started my learning journey with the Introduction to QGIS course by Spatial Thoughts (Ujaval Gandhi), under the guidance and advice of Ujaval Gandhi.
-  His step-by-step methods helped me build these maps. My first project focuses on designing map layouts of the largest earthquakes that occurred between 2000 and 2020, ranked by fatalities.
+  This repository contains my GIS learning files and outputs. I began my GIS learning journey with the Introduction to QGIS course by Spatial Thoughts (#Ujaval Gandhi), whose step-by-step methods guided me in building these maps.
+My first project focuses on designing map layouts of the 10 largest earthquakes between 2000 and 2020, ranked by fatalities. This project helped me practice cartographic design, data visualization, and effective use of QGIS for real-world datasets.
 
 📌 Project Overview
 
@@ -57,16 +56,15 @@ This project visualizes the 10 largest earthquakes between 2000 and 2020, highli
    - Designed final layout using QGIS Print Composer.
    - Added legend, title, and data sources for clear readability.
 
-
 🗺️ Map Explanation
  
-   Red Circles → Represent earthquake events; circle size is proportional to deaths.
+  1. Red Circles → Represent earthquake events; circle size is proportional to deaths.
   
-   Black Labels → Highlight the 10 largest earthquake events (2000–2020) with location & death toll.
+  2. Black Labels → Highlight the 10 largest earthquake events (2000–2020) with location & death toll.
   
-   Thin Red Lines → Represent global fault lines.
+  3. Thin Red Lines → Represent global fault lines.
   
-   Base Layer → Natural Earth map for land boundaries.
+  4. Base Layer → Natural Earth map for land boundaries.
 
 Final Output of the Project:
 
@@ -76,9 +74,11 @@ Final Output of the Project:
 
  Key Findings:
  
-  The Haiti earthquake (2010) was the deadliest (316,000 deaths).
-  The Indian Ocean earthquake & tsunami (2004) caused ~227,899 deaths.
-  High-fatality events are strongly correlated with densely populated fault line regions.
+  1. The Haiti earthquake (2010) was the deadliest (316,000 deaths).
+  
+  2. The Indian Ocean earthquake & tsunami (2004) caused ~227,899 deaths.
+  
+  3. High-fatality events are strongly correlated with densely populated fault line regions.
 
 
  Created with QGIS | Author: *Shalini Seralathan* 
@@ -87,7 +87,9 @@ Final Output of the Project:
 
 Tutorial : [Introduction to QGIS by Spatial Thoughts - Ujaval Gandhi](https://courses.spatialthoughts.com/introduction-to-qgis.html#creating-maps)
 
+🔹 Future Work / Next Steps
 
+  🗂️ Add more projects from my GIS learning journey (remote sensing, spatial analysis, cartographic design).
 
 
 
