@@ -28,7 +28,10 @@ Visualized the spatial distribution of the population density in the form   of a
 
 **Final output:**
 
-	The New York City Population density map was created for the year 2010\.
+The New York City Population density map was created for the year 2010
+
+<img width="2480" height="3507" alt="Population_Density_2010" src="https://github.com/user-attachments/assets/295d7c2b-bdba-4d14-9386-1f29822682c5" />
+
 
 **Sources and Credits:**
 
