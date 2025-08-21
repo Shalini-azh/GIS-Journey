@@ -37,7 +37,7 @@ The New York City Population density map was created for the year 2010
 
 * Data: NYC OpenData Portal.  
     
-* Tutorial: Ujaval Gandhi (Spatialthoughts)  
+* Tutorial: [[Ujaval Gandhi]](https://spatialthoughts.com/courses/introduction-to-qgis)(Spatialthoughts)  
     
 * Map: Shalini Seralathan using QGIS
 
