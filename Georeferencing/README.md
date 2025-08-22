@@ -1,7 +1,8 @@
-**Georeferencing**  
+**Georeferencing** 
+
 **Introduction**
 
-This exercise 3 is part of my learning journey with the Introduction to QGIS tutorial Spatial Thoughts by Ujaval Gandhi.
+This exercise 3 is part of my learning journey with the [Introduction to QGIS tutorial Spatial Thoughts by Ujaval Gandhi](https://courses.spatialthoughts.com/introduction-to-qgis.html#georeferencing).
 
 The objective of the process is assigning real world coordinates to the scanned map or image so it can be used with the other spatial data. 
 
@@ -37,6 +38,9 @@ The objective of the process is assigning real world coordinates to the scanned 
 
 * Georeferenced raster image aligned to the correct CRS.  
 * Visualization showing proper overlay with other spatial datasets.
+* [Bangalore_1924_modified.tif](https://github.com/user-attachments/files/21945775/Bangalore_1924_modified.tif)
+
+
 
 ---
 
